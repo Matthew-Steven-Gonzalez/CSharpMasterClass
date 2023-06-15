@@ -7,17 +7,23 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             // Delcare Variable
+
             int num1;
             int num2 = 23;
+            
             // assigning a value
+            
             num1 = 13;
             int sum = num1 + num2;
+            
             //concatination
+            
             Console.WriteLine("num is " + num1);
             Console.WriteLine("Num1(" + num1 + ") plus num2(" + num2 + ") is " + sum);
 
 
             //ints
+            
             int num3, num4, num5;
             num3 = 2;
             num4 = 3;
