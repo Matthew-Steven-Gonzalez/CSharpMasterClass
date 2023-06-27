@@ -14,6 +14,8 @@ namespace Walkthroughs
 			//1.String concatination
 			Console.WriteLine("String Concatenation:");
 			Console.WriteLine("Hello my name is " + name + " and I am " + age + " years old.");
+
+			console.WriteLine()
 		}
 	}
 }
