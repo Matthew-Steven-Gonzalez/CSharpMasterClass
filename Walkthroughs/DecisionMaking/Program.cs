@@ -45,6 +45,7 @@
             gameScore(99, "Ezekiel");
             */
 
+            /*
             int temperature = -6;
             string stateOfMatter;
 
@@ -71,6 +72,28 @@
             stateOfMatter = temperature > 100 ? "gas" : temperature < 0 ? "solid" : "liquid";
 
             Console.WriteLine("State of matter is {0}", stateOfMatter);
+
+            */
+
+            //Enchanced If statements challenge
+
+            Console.WriteLine("Please enter a tempertaure");
+            string input = Console.ReadLine();
+            string tempInfo;
+            int x;
+
+            // if statement to check if input is a valid number
+            if(int.TryParse(input, out x))
+            {
+                //enhanced if statement checking temp logic
+                tempInfo = x <= 15 ? "it is too cold here" : x > 28 ? "it is too hot here" : "it is ok";
+                Console.WriteLine(tempInfo);
+            }
+            else
+            {
+                Console.WriteLine("Not a valid Temperature");
+            }
+
 
 
         }
