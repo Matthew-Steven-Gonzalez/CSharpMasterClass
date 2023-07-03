@@ -20,7 +20,7 @@
 
         public static void Main(string[] args) 
         {
-
+            /*
             Register();
             Console.WriteLine("Would You like to log in?");
             confirmation = Console.ReadLine();
@@ -43,6 +43,36 @@
             gameScore(97, "James");
             gameScore(37, "Tony");
             gameScore(99, "Ezekiel");
+            */
+
+            int temperature = -6;
+            string stateOfMatter;
+
+            if(temperature < 0)
+            {
+                stateOfMatter = "solid";
+            }
+            else if(temperature > 0 && temperature < 100 )
+            {
+                stateOfMatter = "liquid";
+            }
+            else
+            {
+                stateOfMatter = "Gas";
+            }
+
+            Console.WriteLine("State of matter is {0}", stateOfMatter);
+
+            temperature = 120;
+
+            //enhanced if statement
+            stateOfMatter = temperature < 0 ? "solid" : "liquid";
+
+            stateOfMatter = temperature > 100 ? "gas" : temperature < 0 ? "solid" : "liquid";
+
+            Console.WriteLine("State of matter is {0}", stateOfMatter);
+
+
         }
 
         public static void Register()
@@ -93,7 +123,7 @@
             }
             else
             {
-                Console.WriteLine("The old highscore of " + highScore + " could not be broken and is still held by " + highPlayerName + ".");
+                Console.WriteLine("The old highscore of " + highScore + " could not be broken and is still held by " + highPlayerName + "."); 
             }
         }
     }
