@@ -14,6 +14,10 @@
 
         static bool loggingIn = false;
 
+        static int highScore = 0;
+
+        static string highPlayerName;
+
         public static void Main(string[] args) 
         {
 
@@ -31,9 +35,14 @@
                 else
                 {
                     Console.WriteLine("Thank you have a good day.");
+                    loggingIn = true;
                 }
 
             }
+
+            gameScore(97, "James");
+            gameScore(37, "Tony");
+            gameScore(99, "Ezekiel");
         }
 
         public static void Register()
@@ -74,5 +83,20 @@
                 Console.WriteLine("Your username cannot be found.");
             }
         }
+        public static void gameScore(int score, string playerName)
+        {
+            if (score > highScore)
+            {
+                highScore = score;
+                highPlayerName = playerName;
+                Console.WriteLine("New High Score is " + highScore + "\nNew highscore holder is " + highPlayerName + ".");
+            }
+            else
+            {
+                Console.WriteLine("The old highscore of " + highScore + " could not be broken and is still held by " + highPlayerName + ".");
+            }
+        }
     }
+
+  
 }
