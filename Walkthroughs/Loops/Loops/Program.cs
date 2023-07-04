@@ -24,6 +24,7 @@
 
             Console.WriteLine("Welcome to average");
             Console.WriteLine("------------------");
+            Console.WriteLine("Enter -1 to see average of all grades");
             while (grade != -1)
             {
                 Console.WriteLine("Enter a grade between 0-20");
@@ -39,6 +40,7 @@
                     {
                         total += grade;
                         counter++;
+                        Console.WriteLine("You have entered {0} grades.", counter);
                     }
                     else
                     {
