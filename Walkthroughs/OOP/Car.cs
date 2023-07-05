@@ -17,6 +17,11 @@ namespace OOP
         {
             Console.WriteLine("Car is driving.");
         }
+
+        public void Stop()
+        {
+            Console.WriteLine("The Car has stopped.");
+        }
     }
 
 

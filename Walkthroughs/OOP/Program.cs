@@ -6,6 +6,8 @@
         {
             Car audi = new Car();
             audi.Drive();
+            audi.Stop();
+            Console.Read();
         }
     }
 }
