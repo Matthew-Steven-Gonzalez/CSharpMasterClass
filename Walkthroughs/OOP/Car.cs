@@ -8,20 +8,34 @@ namespace OOP
 {
     internal class Car
     {
-        public Car() 
+        private string _name;
+        private int _hp;
+        private string _color;
+
+        public Car(string name, int hp, string color = "black") 
         {
-            Console.Write("Car was created.");
+            _name = name;
+            _hp = hp;
+            _color = color;
+            Console.Write(name + " was created.\n");
         }
 
         public void Drive()
         {
-            Console.WriteLine("Car is driving.");
+            Console.WriteLine(_name +" is driving.");
         }
 
         public void Stop()
         {
-            Console.WriteLine("The Car has stopped.");
+            Console.WriteLine(_name + " has stopped.");
         }
+
+        public void CarInfo()
+        {
+            Console.WriteLine("The car is a "+ _color + " " + _name);
+            Console.WriteLine("It has {0} horsepower.", _hp);
+        }
+
     }
 
 
