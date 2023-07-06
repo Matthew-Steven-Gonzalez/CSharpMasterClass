@@ -12,6 +12,28 @@ namespace OOP
         private int _hp;
         private string _color;
 
+
+        //public properties
+        public string Name { get { return _name; } set { _name = value; } }
+
+        //constructors
+        public Car()
+        {
+            _name = "Car";
+            _hp = 5;
+            _color = "Red";
+            Drive();
+            Console.Write(_color + " " + _name + " was created.\n");
+
+        }
+
+        public Car (string name, int hp)
+        {
+            _color = "Red";
+            Console.Write( _color + " " +_name + " was created.\n");
+
+        }
+
         public Car(string name, int hp, string color = "black") 
         {
             _name = name;
@@ -20,7 +42,9 @@ namespace OOP
             Console.Write(name + " was created.\n");
         }
 
-        public void Drive()
+
+        //member methods
+        private void Drive()
         {
             Console.WriteLine(_name +" is driving.");
         }
