@@ -11,10 +11,38 @@ namespace OOP
         private string _name;
         private int _hp;
         private string _color;
+        private int _maxSpeed;
 
-
+        
         //public properties
-        public string Name { get { return _name; } set { _name = value; } }
+        public string Name {
+            get { return _name; } // get accessor
+            set {
+                if(value == "")
+                {
+                    _name = "Hello World From default Name";
+                    
+                }
+                else { _name = value; }
+                }
+            
+        }
+
+        //autoImplemented properties
+
+        //public int MaxSpeed { get; set; }
+
+        //read-only
+        //public int MaxSpeed { get; } = 10;
+
+        //write-only
+        public int MaxSpeed
+        {
+            set
+            {
+                _maxSpeed = value;
+            }
+        }
 
         //constructors
         public Car()
@@ -27,7 +55,7 @@ namespace OOP
 
         }
 
-        public Car (string name, int hp)
+        public Car (string? name, int hp)
         {
             _color = "Red";
             Console.Write( _color + " " +_name + " was created.\n");
