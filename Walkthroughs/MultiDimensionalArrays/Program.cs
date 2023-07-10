@@ -46,7 +46,36 @@ class Program
         Console.WriteLine("{0}", array2dstring[1, 1]);
         Console.WriteLine("{0}", dimension);
         Console.ReadKey();
+
+
     }
-        
+    //tic tac toe checker
+    public static bool Checker(string[,] board)
+    {
+        for (int i = 0; i < 3; i++)
+        {
+            //for horizontal wins
+            if (board[i, 0] == board[i, 1] && board[i, 1] == board[i, 2])
+            {
+                return true;
+            }
+            //for verticle wins
+            if (board[0, i] == board[1, i] && board[1, i] == board[2, i])
+            {
+                return true;
+            }
+        }
+        //both logics for diagonal wins
+        if (board[0, 0] == board[1, 1] && board[1, 1] == board[2, 2])
+        {
+            return true;
+        }
+        if (board[0, 2] == board[1, 1] && board[1, 1] == board[2, 0])
+        {
+            return true;
+        }
+        return false;
+    }
+
 }
 
