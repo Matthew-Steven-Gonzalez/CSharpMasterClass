@@ -3,13 +3,20 @@
 class Program
 {
 
+    static string[,] valuesInital = new string[,]{
+        { "1","2","3"},
+        { "4","5","6" },
+        { "7","8","9" }
+    };
+
     static string[,] values = new string[,]{
         { "1","2","3"},
         { "4","5","6" },
         { "7","8","9" }
     };
 
-    
+    static int turns = 0;
+
 
     static void Main(string[] args)
     {
@@ -43,15 +50,47 @@ class Program
 
             foreach (string playerString in playerStrings)
             {
-                if ((values[0, 0] == playerString) && (values[0, 1] == playerString) && (values[0, 2] == playerString))
+                if (
+                    //values for horizontal wins
+                    (values[0, 0] == playerString) && (values[0, 1] == playerString) && (values[0, 2] == playerString) ||
+                    (values[1, 0] == playerString) && (values[1, 1] == playerString) && (values[1, 2] == playerString) ||
+                    (values[2, 0] == playerString) && (values[2, 1] == playerString) && (values[2, 2] == playerString) ||
+                    //values for verticle wins
+                    (values[0, 0] == playerString) && (values[1, 0] == playerString) && (values[2, 0] == playerString) ||
+                    (values[0, 1] == playerString) && (values[1, 1] == playerString) && (values[2, 1] == playerString) ||
+                    (values[0, 2] == playerString) && (values[1, 2] == playerString) && (values[2, 2] == playerString) ||
+                    //values for diagonial wins
+                    (values[0, 0] == playerString) && (values[1, 1] == playerString) && (values[2, 2] == playerString) ||
+                    (values[0, 2] == playerString) && (values[1, 1] == playerString) && (values[2, 0] == playerString))
                 {
-                    Console.WriteLine("We have a winner.");
+                    if (playerString == "X")
+                    {
+                        Console.WriteLine("Player 2 has won.");
+                        Console.ReadKey();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Player 1 has won.");
+                        Console.ReadKey();
+                    }
+                    Console.WriteLine("Press any key to reset game.");
+                    Console.ReadKey();
+                    resetField();
+                    break;
+                }
+                else if (turns == 10)
+                {
+                    Console.WriteLine("Draw");
+                    Console.WriteLine("Press any key to reset game.");
+                    Console.ReadKey();
+                    resetField();
+                    break;
                 }
             }
 
             //checking if position taken
             do
-            {
+            { 
                 Console.WriteLine("Player {0} : Choose your field", player);
                 try
                 {
@@ -117,6 +156,13 @@ class Program
 
     }
 
+    public static void resetField()
+    {
+        values = valuesInital;
+        turns = 0;
+        grapicVisual();
+    }
+
     public static void grapicVisual()
     {
         Console.Clear();
@@ -131,6 +177,7 @@ class Program
         Console.WriteLine("     |     |     ");
         Console.WriteLine("  {0}  |  {1}  |  {2}  ", values[2, 0], values[2, 1], values[2, 2]);
         Console.WriteLine("     |     |     ");
+        turns++;
     }
 
     public static void XorO(int player, int input)
