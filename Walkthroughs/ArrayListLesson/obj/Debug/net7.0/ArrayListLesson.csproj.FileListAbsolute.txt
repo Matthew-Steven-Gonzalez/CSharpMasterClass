@@ -1,0 +1,15 @@
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/bin/Debug/net7.0/ArrayListLesson
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/bin/Debug/net7.0/ArrayListLesson.deps.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/bin/Debug/net7.0/ArrayListLesson.runtimeconfig.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/bin/Debug/net7.0/ArrayListLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/bin/Debug/net7.0/ArrayListLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ArrayListLesson.csproj.AssemblyReference.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ArrayListLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ArrayListLesson.AssemblyInfoInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ArrayListLesson.AssemblyInfo.cs
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ArrayListLesson.csproj.CoreCompileInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ArrayListLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/refint/ArrayListLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ArrayListLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ArrayListLesson.genruntimeconfig.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ArrayListLesson/obj/Debug/net7.0/ref/ArrayListLesson.dll
