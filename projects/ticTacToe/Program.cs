@@ -3,12 +3,6 @@
 class Program
 {
 
-    static string[,] valuesInital = new string[,]{
-        { "1","2","3"},
-        { "4","5","6" },
-        { "7","8","9" }
-    };
-
     static string[,] values = new string[,]{
         { "1","2","3"},
         { "4","5","6" },
@@ -158,6 +152,11 @@ class Program
 
     public static void resetField()
     {
+        string[,] valuesInital = new string[,]{
+        { "1","2","3"},
+        { "4","5","6" },
+        { "7","8","9" }
+    };
         values = valuesInital;
         turns = 0;
         grapicVisual();

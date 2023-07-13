@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        /*
         // declare 2 - d array
         string[,] matrix;
         //3-d array
@@ -46,7 +47,13 @@ class Program
         Console.WriteLine("{0}", array2dstring[1, 1]);
         Console.WriteLine("{0}", dimension);
         Console.ReadKey();
+        */
 
+        int[] happiness = { 1, 2, 3, 4, 5 };
+
+        sunShine(happiness);
+
+        Console.ReadKey();
 
     }
     //tic tac toe checker
@@ -75,6 +82,16 @@ class Program
             return true;
         }
         return false;
+    }
+
+    public static void sunShine(int[] happiness)
+    {
+        for(int i = 0; i <happiness.Length;i++)
+        {
+            happiness[i] += 2;
+            Console.WriteLine("{0}", happiness[i]);
+        }
+
     }
 
 }
