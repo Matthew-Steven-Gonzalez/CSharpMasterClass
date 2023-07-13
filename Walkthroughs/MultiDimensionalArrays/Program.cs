@@ -51,7 +51,19 @@ class Program
 
         int[] happiness = { 1, 2, 3, 4, 5 };
 
+        int price = 50;
+
+        float pi = 3.14f;
+
+        char at = '@';
+
+        string book = "The hobbit";
+
         sunShine(happiness);
+
+        ParamsMethod("this", "is", "A", "long", "String");
+
+        ParamsMethod2(price,pi,at,book);
 
         Console.ReadKey();
 
@@ -89,10 +101,30 @@ class Program
         for(int i = 0; i <happiness.Length;i++)
         {
             happiness[i] += 2;
-            Console.WriteLine("{0}", happiness[i]);
+            //Console.WriteLine("{0}", happiness[i]);
         }
 
+        foreach(int ele in happiness)
+        {
+            Console.WriteLine("{0}", ele);
+        }
     }
 
+    public static void ParamsMethod(params string[] sentences)
+    {
+        for(int i = 0; i < sentences.Length;i++)
+        {
+            Console.Write("{0} ", sentences[i]);
+        }
+    }
+
+    public static void ParamsMethod2(params object[] stuff)
+    {
+        //to go through each object with a foreach loop
+        foreach(object item in stuff)
+        {
+            Console.Write(item + " ");
+        }
+    }
 }
 
