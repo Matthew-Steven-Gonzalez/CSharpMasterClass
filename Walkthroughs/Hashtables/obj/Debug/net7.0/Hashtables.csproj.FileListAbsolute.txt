@@ -1,0 +1,15 @@
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/bin/Debug/net7.0/Hashtables
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/bin/Debug/net7.0/Hashtables.deps.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/bin/Debug/net7.0/Hashtables.runtimeconfig.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/bin/Debug/net7.0/Hashtables.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/bin/Debug/net7.0/Hashtables.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/Hashtables.csproj.AssemblyReference.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/Hashtables.AssemblyInfoInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/Hashtables.AssemblyInfo.cs
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/Hashtables.csproj.CoreCompileInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/Hashtables.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/refint/Hashtables.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/Hashtables.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/Hashtables.genruntimeconfig.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/Hashtables/obj/Debug/net7.0/ref/Hashtables.dll
