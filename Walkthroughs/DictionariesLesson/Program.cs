@@ -9,6 +9,7 @@ class Program
 
     static void Main(string[] args)
     {
+        Queue<string> aLine = new Queue<string>();
 
         Dictionary<int, string> myDictionary = new Dictionary<int, string>()
         {
