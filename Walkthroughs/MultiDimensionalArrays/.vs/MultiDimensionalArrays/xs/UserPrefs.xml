@@ -3,19 +3,17 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.MultiDimensionalArrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MultiDimensionalArrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="49" Column="5" />
+      <File FileName="Program.cs" Line="56" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MultiDimensionalArrays" expanded="True">
-            <Node name="MultiDimensionalArrays" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="MultiDimensionalArrays" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

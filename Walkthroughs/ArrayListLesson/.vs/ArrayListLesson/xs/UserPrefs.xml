@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{D05A2DF1-7AC6-41D2-8A95-DC3B44F69A96}|Default">
-  <MonoDevelop.Ide.ItemProperties.ArrayListLesson FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ArrayListLesson PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="47" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayListLesson" expanded="True">
+            <Node name="ArrayListLesson" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

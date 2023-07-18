@@ -1,0 +1,15 @@
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/bin/Debug/net7.0/DictionariesLesson
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/bin/Debug/net7.0/DictionariesLesson.deps.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/bin/Debug/net7.0/DictionariesLesson.runtimeconfig.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/bin/Debug/net7.0/DictionariesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/bin/Debug/net7.0/DictionariesLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/DictionariesLesson.csproj.AssemblyReference.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/DictionariesLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/DictionariesLesson.AssemblyInfoInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/DictionariesLesson.AssemblyInfo.cs
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/DictionariesLesson.csproj.CoreCompileInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/DictionariesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/refint/DictionariesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/DictionariesLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/DictionariesLesson.genruntimeconfig.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/DictionariesLesson/obj/Debug/net7.0/ref/DictionariesLesson.dll
