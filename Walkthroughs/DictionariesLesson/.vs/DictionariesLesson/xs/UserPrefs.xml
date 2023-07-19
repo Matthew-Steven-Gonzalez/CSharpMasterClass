@@ -3,16 +3,12 @@
   <MonoDevelop.Ide.ItemProperties.DictionariesLesson PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="39" Column="55" />
-      <File FileName="Employee.cs" Line="22" Column="64" />
+      <File FileName="Program.cs" Line="23" Column="46" />
+      <File FileName="Employee.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="DictionariesLesson" expanded="True">
-            <Node name="DictionariesLesson" selected="True" />
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
