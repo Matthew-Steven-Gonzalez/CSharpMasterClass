@@ -26,12 +26,23 @@ class Program
 
         ImagePost imagepost1 = new ImagePost("Check out my new shoes", "JimBob", true, "Https//images.com/shoes");
 
+        VideoPost videoPost1 = new VideoPost("BasketBall game", "DougJones", true, "Https//youtube.com/fjdwjfuucedn", 8);
+
         Console.WriteLine(post1.ToString());
 
         Console.WriteLine(imagepost1.ToString());
-        
-        Console.ReadKey();
 
+        Console.WriteLine(videoPost1.ToString());
+
+        videoPost1.Play();
+
+
+        Console.WriteLine("press any key to stop video.");
+        Console.ReadKey();
+        videoPost1.Stop();
+
+
+        Console.ReadKey();
 
     }
 }
