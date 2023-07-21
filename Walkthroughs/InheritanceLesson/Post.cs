@@ -35,6 +35,17 @@ namespace InheritanceLesson
 		{
 			return ++currentPostId;
 		}
-	}
+
+		public void Update(string title, bool isPublic)
+		{
+			this.Title = title;
+			this.IsPublic = isPublic;
+		}
+
+        public override string ToString()
+        {
+			return String.Format("{0} - {1} - By: {2}", this.ID, this.Title, this.SendByUsername);
+        }
+    }
 }
 

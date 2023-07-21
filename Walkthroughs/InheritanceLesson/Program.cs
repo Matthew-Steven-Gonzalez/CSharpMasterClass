@@ -14,14 +14,22 @@ class Program
 
         //myTv.WatchingTv();
 
-        Dog dog = new Dog("doug", 45);
+        //Dog dog = new Dog("doug", 45);
 
-        Console.WriteLine($"{dog.Name} is {dog.Age} years old.");
+        //Console.WriteLine($"{dog.Name} is {dog.Age} years old.");
 
-        dog.Play();
-        dog.Eat();
-        dog.MakeSound();
+        //dog.Play();
+        //dog.Eat();
+        //dog.MakeSound();
 
+        Post post1 = new Post("Thank you very much", true, "Jimbob");
+
+        ImagePost imagepost1 = new ImagePost("Check out my new shoes", "JimBob", true, "Https//images.com/shoes");
+
+        Console.WriteLine(post1.ToString());
+
+        Console.WriteLine(imagepost1.ToString());
+        
         Console.ReadKey();
 
 
