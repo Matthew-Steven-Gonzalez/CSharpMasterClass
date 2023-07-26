@@ -27,13 +27,6 @@ namespace InheritanceLesson
             this.Length = length;
         }
 
-        static void playTime(object state)
-        {
-            Console.WriteLine("1 Sec has passed");
-            Console.WriteLine(Thread.CurrentThread.ManagedThreadId.ToString());
-            Thread.Sleep(500);
-        }
-
         public void Play()
         {
 
