@@ -22,25 +22,31 @@ class Program
         //dog.Eat();
         //dog.MakeSound();
 
-        Post post1 = new Post("Thank you very much", true, "Jimbob");
+        //Post post1 = new Post("Thank you very much", true, "Jimbob");
 
-        ImagePost imagepost1 = new ImagePost("Check out my new shoes", "JimBob", true, "Https//images.com/shoes");
+        //ImagePost imagepost1 = new ImagePost("Check out my new shoes", "JimBob", true, "Https//images.com/shoes");
 
-        VideoPost videoPost1 = new VideoPost("BasketBall game", "DougJones", true, "Https//youtube.com/fjdwjfuucedn", 8);
+        //VideoPost videoPost1 = new VideoPost("BasketBall game", "DougJones", true, "Https//youtube.com/fjdwjfuucedn", 8);
 
-        Console.WriteLine(post1.ToString());
+        //Console.WriteLine(post1.ToString());
 
-        Console.WriteLine(imagepost1.ToString());
+        //Console.WriteLine(imagepost1.ToString());
 
-        Console.WriteLine(videoPost1.ToString());
+        //Console.WriteLine(videoPost1.ToString());
 
-        videoPost1.Play();
+        //videoPost1.Play();
 
 
-        Console.WriteLine("press any key to stop video.");
-        Console.ReadKey();
-        videoPost1.Stop();
+        //Console.WriteLine("press any key to stop video.");
+        //Console.ReadKey();
+        //videoPost1.Stop();
 
+
+        Employee jim = new Employee("Stevens", "Jim", 4.5);
+
+        Boss richard = new Boss("James", "Richard", 9.4, true);
+
+        Trainee joe = new Trainee("Trippie","Joe",1.2,())
 
         Console.ReadKey();
 

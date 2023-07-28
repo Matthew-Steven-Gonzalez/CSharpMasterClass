@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0C28DB59-FF2F-41FD-ADC7-1A02BAFB1C9E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IDestroyable.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="30" />
+      <File FileName="Ticket.cs" Line="23" Column="57" />
+      <File FileName="Furniture.cs" Line="12" Column="24" />
+      <File FileName="Vehicle.cs" Line="14" Column="20" />
+      <File FileName="Chair.cs" Line="26" Column="1" />
+      <File FileName="Car.cs" Line="21" Column="4" />
+      <File FileName="IDestroyable.cs" Line="9" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="interfacesLesson" expanded="True">
+            <Node name="interfacesLesson">
+              <Node name="IDestroyable.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.interfacesLesson PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/bin/Debug/net7.0/interfacesLesson
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/bin/Debug/net7.0/interfacesLesson.deps.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/bin/Debug/net7.0/interfacesLesson.runtimeconfig.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/bin/Debug/net7.0/interfacesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/bin/Debug/net7.0/interfacesLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/interfacesLesson.csproj.AssemblyReference.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/interfacesLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/interfacesLesson.AssemblyInfoInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/interfacesLesson.AssemblyInfo.cs
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/interfacesLesson.csproj.CoreCompileInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/interfacesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/refint/interfacesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/interfacesLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/interfacesLesson.genruntimeconfig.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/interfacesLesson/obj/Debug/net7.0/ref/interfacesLesson.dll
