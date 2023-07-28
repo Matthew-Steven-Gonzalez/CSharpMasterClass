@@ -1,0 +1,15 @@
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/bin/Debug/net7.0/EnumLesson
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/bin/Debug/net7.0/EnumLesson.deps.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/bin/Debug/net7.0/EnumLesson.runtimeconfig.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/bin/Debug/net7.0/EnumLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/bin/Debug/net7.0/EnumLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/EnumLesson.csproj.AssemblyReference.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/EnumLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/EnumLesson.AssemblyInfoInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/EnumLesson.AssemblyInfo.cs
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/EnumLesson.csproj.CoreCompileInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/EnumLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/refint/EnumLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/EnumLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/EnumLesson.genruntimeconfig.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/EnumLesson/obj/Debug/net7.0/ref/EnumLesson.dll
