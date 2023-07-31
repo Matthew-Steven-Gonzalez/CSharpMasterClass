@@ -23,7 +23,7 @@ class Program
         //}
         IEnumerable<int> unknownCollection;
 
-        unknownCollection = GetCollection(3);
+        unknownCollection = GetCollection(3 );
 
         Console.WriteLine("This was a list.");
 
