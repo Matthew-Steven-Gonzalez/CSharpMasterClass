@@ -1,10 +1,14 @@
 ﻿using System;
 namespace PolymorphicLesson
 {
-	public class CarIDInfo_
+	public class CarIDInfo
 	{
-		public CarIDInfo_()
+        public int IDnum { get; set; }
+
+        //Has A
+        public CarIDInfo()
 		{
+
 		}
 	}
 }
