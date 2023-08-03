@@ -1,0 +1,15 @@
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/bin/Debug/net7.0/ReadANDWriteToTextFileLesson
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/bin/Debug/net7.0/ReadANDWriteToTextFileLesson.deps.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/bin/Debug/net7.0/ReadANDWriteToTextFileLesson.runtimeconfig.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/bin/Debug/net7.0/ReadANDWriteToTextFileLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/bin/Debug/net7.0/ReadANDWriteToTextFileLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ReadANDWriteToTextFileLesson.csproj.AssemblyReference.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ReadANDWriteToTextFileLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ReadANDWriteToTextFileLesson.AssemblyInfoInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ReadANDWriteToTextFileLesson.AssemblyInfo.cs
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ReadANDWriteToTextFileLesson.csproj.CoreCompileInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ReadANDWriteToTextFileLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/refint/ReadANDWriteToTextFileLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ReadANDWriteToTextFileLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ReadANDWriteToTextFileLesson.genruntimeconfig.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/ReadANDWriteToTextFileLesson/obj/Debug/net7.0/ref/ReadANDWriteToTextFileLesson.dll

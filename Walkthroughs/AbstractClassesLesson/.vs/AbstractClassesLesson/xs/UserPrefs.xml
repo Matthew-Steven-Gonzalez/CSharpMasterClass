@@ -1,28 +1,22 @@
 ﻿<Properties StartupConfiguration="{11A19E32-3FDC-481E-A375-35F0EAC86F6D}|Default">
-  <MonoDevelop.Ide.ItemProperties.AbstractClassesLesson PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cube.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Shape.cs" />
+      <File FileName="Cube.cs" Line="13" Column="1" />
+      <File FileName="Sphere.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Cube.cs">
-    <Files>
-      <File FileName="Program.cs" Line="29" Column="54" />
-      <File FileName="Shape.cs" Line="18" Column="1" />
-      <File FileName="Cube.cs" Line="13" Column="1" />
-      <File FileName="Sphere.cs" Line="26" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="AbstractClassesLesson" expanded="True">
-            <Node name="AbstractClassesLesson">
-              <Node name="Cube.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AbstractClassesLesson PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
