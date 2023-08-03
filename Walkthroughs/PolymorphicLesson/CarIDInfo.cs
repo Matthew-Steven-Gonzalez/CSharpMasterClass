@@ -5,8 +5,12 @@ namespace PolymorphicLesson
 	{
         public int IDnum { get; set; }
 
-        //Has A
-        public CarIDInfo()
+		public string Owner { get; set; } = "No Owner";
+
+
+
+		//Has A
+		public CarIDInfo()
 		{
 
 		}

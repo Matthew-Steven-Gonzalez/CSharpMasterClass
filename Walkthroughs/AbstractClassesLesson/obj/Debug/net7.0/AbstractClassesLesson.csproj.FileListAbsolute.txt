@@ -1,0 +1,15 @@
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/bin/Debug/net7.0/AbstractClassesLesson
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/bin/Debug/net7.0/AbstractClassesLesson.deps.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/bin/Debug/net7.0/AbstractClassesLesson.runtimeconfig.json
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/bin/Debug/net7.0/AbstractClassesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/bin/Debug/net7.0/AbstractClassesLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/AbstractClassesLesson.csproj.AssemblyReference.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/AbstractClassesLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/AbstractClassesLesson.AssemblyInfoInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/AbstractClassesLesson.AssemblyInfo.cs
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/AbstractClassesLesson.csproj.CoreCompileInputs.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/AbstractClassesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/refint/AbstractClassesLesson.dll
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/AbstractClassesLesson.pdb
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/AbstractClassesLesson.genruntimeconfig.cache
+/Users/muffins/Projects/CSharpMasterClass/Walkthroughs/AbstractClassesLesson/obj/Debug/net7.0/ref/AbstractClassesLesson.dll

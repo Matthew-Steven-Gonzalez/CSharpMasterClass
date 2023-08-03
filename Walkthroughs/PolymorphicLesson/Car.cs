@@ -7,6 +7,21 @@ namespace PolymorphicLesson
 
 		public int HP { get; set; }
 
+		//has a
+
+		protected CarIDInfo carIDInfo = new CarIDInfo();
+
+		public void SetCarIDInfo(int idNum, string owner)
+		{
+			carIDInfo.IDnum = idNum;
+			carIDInfo.Owner = owner;
+		}
+
+		public void GetCarIDInfo()
+		{
+			Console.WriteLine($"The car has an Id of {});
+		}
+
 		public Car( string color, int hp)
 		{
 			this.Color = color;

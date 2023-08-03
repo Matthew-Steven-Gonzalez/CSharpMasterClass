@@ -1,28 +1,24 @@
 ﻿<Properties StartupConfiguration="{EDB1C8AD-41CA-4F74-AD6D-31C66B010462}|Default">
   <MonoDevelop.Ide.ItemProperties.PolymorphicLesson FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CarIDInfo.cs">
-    <Files>
-      <File FileName="Program.cs" Line="16" Column="1" />
-      <File FileName="Car.cs" Line="16" Column="9" />
-      <File FileName="BMW.cs" Line="4" Column="19" />
-      <File FileName="Audi.cs" Line="13" Column="1" />
-      <File FileName="M3.cs" Line="8" Column="1" />
-      <File FileName="CarIDInfo'.cs" Line="7" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="PolymorphicLesson">
-            <Node name="PolymorphicLesson" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Car.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="12" />
+      <File FileName="Car.cs" Line="22" Column="46" />
+      <File FileName="BMW.cs" Line="4" Column="19" />
+      <File FileName="Audi.cs" Line="13" Column="1" />
+      <File FileName="M3.cs" Line="8" Column="1" />
+      <File FileName="CarIDInfo.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
